@@ -4,6 +4,7 @@ import { Header } from "./header";
 import { UserProgress } from "@/components/user-progress";
 
 const LearnPage=()=>{
+    
     return(
         <div className="flex flex-row-reverse gap-[48px] px-6">
             <StickyWrapper>
